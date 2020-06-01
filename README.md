@@ -1,5 +1,7 @@
 # YOLO-Mask-recognition
 
+效果展示：https://www.bilibili.com/video/BV19t4y117FL/
+
 由于本软件需要基于CUDA加速，所以需要运行计算机提前安装好CUDA以及cuDNN，并且需要自行编译Darknet后才能运行。
 
 ## 环境要求
@@ -76,11 +78,9 @@
 
 ## 使用方法
 
-1. 软件分为32位与64位版本，分别在 .\Release与.\x64\Release中。双击"口罩佩戴识别.exe"就可以开始使用。
+1. 软件分为32位与64位版本，分别在 .\Release与.\x64\Release中。双击"MFCyolo.exe"就可以开始使用。
 
-2. 详细使用方式：https://www.bilibili.com/video/BV19t4y117FL/
-
-3. 如有使用上的问题请联系我 zhangximeng1212@gmail.com
+2. 如有使用上的问题请联系我 zhangximeng1212@gmail.com
 
 ## 源文件结构
 
