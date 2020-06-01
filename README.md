@@ -1,4 +1,4 @@
-# YOLO-Mask-recognition
+# Mask-Wearing-Identification
 
 效果展示：https://www.bilibili.com/video/BV19t4y117FL/
 
