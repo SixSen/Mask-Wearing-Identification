@@ -80,7 +80,7 @@
 
 1. 软件分为32位与64位版本，分别在 .\Release与.\x64\Release中。双击"MFCyolo.exe"就可以开始使用。
 
-2. 如有使用上的问题请联系我 zhangximeng1212@gmail.com
+2. 如有使用上的问题请联系我 zhangximeng1212@foxmail.com
 
 ## 源文件结构
 
